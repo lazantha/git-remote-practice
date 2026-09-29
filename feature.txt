@@ -1,6 +1,1 @@
-Feature A
-<<<<<<< HEAD
-feature B
-Feature C
-=======
->>>>>>> parent of 1ef0230 (add feature B)
+feature A
