@@ -2,4 +2,4 @@
 Booking system
 
 status :cofiremed
-payment :not completed
+payment :completed
