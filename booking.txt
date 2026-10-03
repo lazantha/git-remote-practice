@@ -1,6 +1,5 @@
 
-Booking System 
+Booking system
 
-status : cancelled
-payment : not completed
-
+status :cofiremed
+payment :not completed
