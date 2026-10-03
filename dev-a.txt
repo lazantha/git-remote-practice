@@ -1,0 +1,2 @@
+hellow from developer A
+learning Git remote operations.
